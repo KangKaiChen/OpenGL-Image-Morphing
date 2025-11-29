@@ -1,6 +1,8 @@
 # OpenGL-Image-Morphing
 
-
+影像變形 (Image Morphing) 的實現基於 特徵點匹配 (Feature Point Correspondence)、Delaunay 三角剖分 和 仿射變換 (Affine Transformation) 的方法。
+FLTK (Fast Light Toolkit) : 用來建立和管理圖形使用者介面 (GUI) 的套件。
+cv::Subdiv2D: 用於 Delaunay 三角剖分 (Delaunay Triangulation)
 
 2.(作業環境)
 	作業環境:win11 64bit
